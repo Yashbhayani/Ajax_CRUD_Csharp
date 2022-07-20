@@ -1,0 +1,109 @@
+﻿
+@model AjaxDemo.Models.StudentDetails
+
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<h2>AddStudent</h2>
+
+<form>
+    <div>
+        @Html.LabelFor(x => x.Id)
+        @Html.TextBoxFor(x => x.Id, new { Id = "studId" })
+    </div><br />
+    <div>
+        @Html.LabelFor(x => x.FirstName)
+        @Html.TextBoxFor(x => x.FirstName, new { Id = "fname" })
+    </div><br />
+    <div>
+        @Html.LabelFor(x => x.LastName)
+        @Html.TextBoxFor(x => x.LastName, new { Id = "lname" })
+    </div>
+    <div>
+        <button type="button" id="btnSubmit">Submit</button><br /><br/>
+        <button type="button" id="btnReset">Reset</button>
+    </div>
+
+</form>
+
+
+<br />
+<br />
+<div id="testDiv">
+
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+
+<script>
+
+    $(document).ready(function () {
+
+        $("#testDiv").attr("display","none")
+
+        $.ajax({
+            type: "GET",
+                url: '@Url.Action("GetStudentList")',
+                dataType: "json",
+                success: function (response) {
+                    if (response.length > 0) {
+                        var div3Content = '';
+                        for (var i = 0; i < response.length; i++) {
+                            div3Content += '<div id="div_' + response[i].Id + '"><p>' + response[i].FirstName + '</p> <p>' + response[i].LastName + '</p>' + "<button type='button' id=" + response[i].Id + " onclick='myFunction(id)'>Delete</button></div>"; // if Name is property of your Person object
+                        }
+                        $("#testDiv").append(div3Content);
+                    }
+                    console.log('data : ', response)
+                },
+                error: function () {
+                    alert("Fail")
+                }
+        })
+
+        $("#btnSubmit").click(function () {
+            var studId = $("#studId").val();
+            var fName = $("#fname").val();
+            var lName = $("#lname").val();
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("SaveStudent")',
+                dataType: "json",
+                data: {
+                    Id: studId,
+                    FirstName: fName,
+                    LastName: lName
+                },
+                success: function (response) {
+                    var div3Content = '';
+                    div3Content += '<div id="div_' + response.Id + '"><p>' + response.FirstName +  '</p> <p>' + response.LastName + '</p>' + "<button type='button' id=" + response.Id + " onclick='myFunction(id)'>Delete</button></div> <br>";
+                    $("#testDiv").append(div3Content);
+                },
+                error: function () {
+                    alert("Fail")
+                }
+            })
+
+            $("#studId").val('')
+            $("#fname").val('')
+            $("#lname").val('')
+        });
+
+
+        $("#btnReset").click(function () {
+            $("#studId").val('')
+            $("#fname").val('')
+            $("#lname").val('')
+        })
+
+    });
+
+
+    function myFunction(id){
+        alert(id)
+
+        $('#testDiv').find('#div_' + id).remove();
+    }
+
+</script>

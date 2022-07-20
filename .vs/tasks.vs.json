@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-_Layout",
+      "appliesTo": "Ajax/AjaxDemo/AjaxDemo/Views/Shared/_Layout.cshtml",
+      "type": "launch"
+    }
+  ]
+}

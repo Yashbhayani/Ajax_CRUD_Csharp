@@ -1,0 +1,395 @@
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll.config
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.pdb
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe.config
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.rsp
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe.config
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.rsp
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.AppContext.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Console.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Http.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.ValueTuple.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe.config
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.rsp
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\WebGrease.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.pdb
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csprojAssemblyReference.cache
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CoreCompileInputs.cache
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CopyComplete
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.dll
+D:\Demo\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.pdb
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll.config
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.pdb
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe.config
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.rsp
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe.config
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.rsp
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.AppContext.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Console.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Http.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe.config
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.rsp
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\WebGrease.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.pdb
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.AssemblyReference.cache
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CopyComplete
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.dll
+D:\Projects\Use\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.pdb
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll.config
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.pdb
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe.config
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.rsp
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe.config
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.rsp
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.AppContext.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Console.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Http.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.ValueTuple.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe.config
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.rsp
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\WebGrease.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.pdb
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.AssemblyReference.cache
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CopyComplete
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.dll
+D:\Projects\Use\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.pdb
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll.config
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.pdb
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe.config
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.rsp
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe.config
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.rsp
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.AppContext.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Console.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Http.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.ValueTuple.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe.config
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.rsp
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\WebGrease.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.pdb
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.AssemblyReference.cache
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CopyComplete
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.dll
+D:\Projects\WEB PROJECT\Share Project For Any person\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.pdb
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll.config
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\AjaxDemo.pdb
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.exe.config
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csc.rsp
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.exe.config
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\csi.rsp
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.AppContext.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Console.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Http.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.ValueTuple.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.exe.config
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\vbc.rsp
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\WebGrease.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Helpers.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Mvc.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Optimization.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.Razor.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\System.Web.WebPages.Razor.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Newtonsoft.Json.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Antlr3.Runtime.pdb
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.AssemblyReference.cache
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.csproj.CopyComplete
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.dll
+D:\Projects\WEB PROJECT\Ajax\Ajax\AjaxDemo\AjaxDemo\obj\Debug\AjaxDemo.pdb
