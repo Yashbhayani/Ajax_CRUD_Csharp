@@ -34,7 +34,6 @@ namespace AjaxDemo.Controllers
         }
 
         [HttpPost]
-/*        [ActionName("Useinfo1")]*/
         public ActionResult UserDetails()
         {
             string UserName = Convert.ToString(Request["firstName"].ToString());
