@@ -21,24 +21,14 @@ namespace AjaxDemo.Controllers
             return View();
         }
 
-      /*  [HttpPost]*/
         public JsonResult SaveStudent(StudentDetails model)
         {
-           /* lstStudents.Add(new StudentDetails
-            {
-                Id = model.Id,
-                FirstName = model.FirstName,
-                LastName = model.LastName
-            });*/
             return Json(model, JsonRequestBehavior.AllowGet);
-            //return Json("GetStudentList");
         }
 
 
         public JsonResult GetStudentList()
-        {
-          /*  List<StudentDetails> lstStudents = new List<StudentDetails>();*/
-                
+        {    
             lstStudents.Add(new StudentDetails
             {
                 FirstName = "Hardik",
